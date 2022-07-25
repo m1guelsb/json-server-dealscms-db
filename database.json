@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "m1guelsb",
+      "password": "123"
+    }
+  ],
+  "clients": [
+    {
+      "name": "client 1",
+      "email": "client1@email.com",
+      "phone": "99999999999",
+      "userId": "1",
+      "id": 1
+    },
+    {
+      "name": "client 2",
+      "email": "client2@email.com",
+      "phone": "88888888888",
+      "userId": "1",
+      "id": 2
+    }
+  ],
+  "deals": [
+    {
+      "description": "test1",
+      "price": "555",
+      "status": "closed",
+      "clientId": "1",
+      "id": 1
+    },
+    {
+      "description": "test2",
+      "price": "111",
+      "status": "closed",
+      "clientId": "2",
+      "id": 2
+    }
+  ]
+}
