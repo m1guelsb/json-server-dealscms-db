@@ -37,5 +37,21 @@
       "clientId": "2",
       "id": 2
     }
+  ],
+  "tasks": [
+    {
+      "title": "Create landing page",
+      "due_date": "08/23/2022",
+      "completed": false,
+      "dealId": 1,
+      "id": 1
+    },
+    {
+      "title": "Add new services",
+      "due_date": "05/12/2022",
+      "completed": false,
+      "dealId": 1,
+      "id": 2
+    }
   ]
 }
