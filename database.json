@@ -6,7 +6,7 @@
       "password": "123"
     }
   ],
-  "clients": [
+  "costumers": [
     {
       "id": 1,
       "name": "Lind Annell",
@@ -120,7 +120,7 @@
       "description": "visualize next-generation solutions",
       "price": "$3319.83",
       "status": "closed",
-      "clientId": "1"
+      "costumerId": "1"
     },
     {
       "id": 2,
@@ -128,7 +128,7 @@
       "description": "benchmark web-enabled e-business",
       "price": "$4385.44",
       "status": "closed",
-      "clientId": "3"
+      "costumerId": "3"
     },
     {
       "id": 3,
@@ -136,7 +136,7 @@
       "description": "scale intuitive infomediaries",
       "price": "$3136.89",
       "status": "closed",
-      "clientId": "5"
+      "costumerId": "5"
     },
     {
       "id": 4,
@@ -144,7 +144,7 @@
       "description": "implement virtual e-markets",
       "price": "$3934.33",
       "status": "closed",
-      "clientId": "2"
+      "costumerId": "2"
     },
     {
       "id": 5,
@@ -152,7 +152,7 @@
       "description": "deploy frictionless portals",
       "price": "$2454.64",
       "status": "closed",
-      "clientId": "7"
+      "costumerId": "7"
     },
     {
       "id": 6,
@@ -160,7 +160,7 @@
       "description": "embrace dynamic web-readiness",
       "price": "$400.41",
       "status": "closed",
-      "clientId": "7"
+      "costumerId": "7"
     },
     {
       "id": 7,
@@ -168,7 +168,7 @@
       "description": "incentivize cross-media e-commerce",
       "price": "$554.58",
       "status": "closed",
-      "clientId": "9"
+      "costumerId": "9"
     },
     {
       "id": 8,
@@ -176,7 +176,7 @@
       "description": "strategize dot-com applications",
       "price": "$707.34",
       "status": "closed",
-      "clientId": "9"
+      "costumerId": "9"
     },
     {
       "id": 9,
@@ -184,7 +184,7 @@
       "description": "extend integrated e-services",
       "price": "$1129.64",
       "status": "closed",
-      "clientId": "11"
+      "costumerId": "11"
     },
     {
       "id": 10,
@@ -192,7 +192,7 @@
       "description": "reintermediate B2B eyeballs",
       "price": "$485.83",
       "status": "inprogress",
-      "clientId": "1"
+      "costumerId": "1"
     },
     {
       "id": 11,
@@ -200,7 +200,7 @@
       "description": "utilize next-generation vortals",
       "price": "$2460.25",
       "status": "inprogress",
-      "clientId": "15"
+      "costumerId": "15"
     },
     {
       "id": 12,
@@ -208,7 +208,7 @@
       "description": "synthesize rich web services",
       "price": "$1400.18",
       "status": "inprogress",
-      "clientId": "4"
+      "costumerId": "4"
     },
     {
       "id": 13,
@@ -216,7 +216,7 @@
       "description": "engineer leading-edge e-tailers",
       "price": "$2399.29",
       "status": "inprogress",
-      "clientId": "8"
+      "costumerId": "8"
     },
     {
       "id": 14,
@@ -224,7 +224,7 @@
       "description": "enable one-to-one systems",
       "price": "$1530.68",
       "status": "inprogress",
-      "clientId": "7"
+      "costumerId": "7"
     },
     {
       "id": 15,
@@ -232,7 +232,7 @@
       "description": "deliver visionary mindshare",
       "price": "$3969.36",
       "status": "inprogress",
-      "clientId": "1"
+      "costumerId": "1"
     }
   ],
   "tasks": [
