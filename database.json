@@ -6,7 +6,7 @@
       "password": "123"
     }
   ],
-  "costumers": [
+  "customers": [
     {
       "id": 1,
       "name": "Lind Annell",
@@ -119,120 +119,120 @@
       "title": "VP Marketing",
       "description": "visualize next-generation solutions",
       "price": "3319.83",
-      "status": "closed",
-      "costumerId": "1"
+      "status": { "id": "1", "label": "Closed" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     },
     {
       "id": 2,
       "title": "Physical Therapy Assistant",
       "description": "benchmark web-enabled e-business",
       "price": "4385.44",
-      "status": "closed",
-      "costumerId": "3"
+      "status": { "id": "1", "label": "Closed" },
+      "customer": { "id": "2", "name": "Patty Assur" }
     },
     {
       "id": 3,
       "title": "Sales Associate",
       "description": "scale intuitive infomediaries",
       "price": "3136.89",
-      "status": "closed",
-      "costumerId": "5"
+      "status": { "id": "1", "label": "Closed" },
+      "customer": { "id": "2", "name": "Patty Assur" }
     },
     {
       "id": 4,
       "title": "Account Executive",
       "description": "implement virtual e-markets",
       "price": "3934.33",
-      "status": "closed",
-      "costumerId": "2"
+      "status": { "id": "1", "label": "Closed" },
+      "customer": { "id": "2", "name": "Patty Assur" }
     },
     {
       "id": 5,
       "title": "Help Desk Operator",
       "description": "deploy frictionless portals",
       "price": "2454.64",
-      "status": "closed",
-      "costumerId": "7"
+      "status": { "id": "1", "label": "Closed" },
+      "customer": { "id": "2", "name": "Patty Assur" }
     },
     {
       "id": 6,
       "title": "Senior Quality Engineer",
       "description": "embrace dynamic web-readiness",
       "price": "400.41",
-      "status": "closed",
-      "costumerId": "7"
+      "status": { "id": "1", "label": "Closed" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     },
     {
       "id": 7,
       "title": "Design Engineer",
       "description": "incentivize cross-media e-commerce",
       "price": "554.58",
-      "status": "closed",
-      "costumerId": "9"
+      "status": { "id": "1", "label": "Closed" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     },
     {
       "id": 8,
       "title": "Editor",
       "description": "strategize dot-com applications",
       "price": "707.34",
-      "status": "closed",
-      "costumerId": "9"
+      "status": { "id": "1", "label": "Closed" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     },
     {
       "id": 9,
       "title": "Environmental Specialist",
       "description": "extend integrated e-services",
       "price": "1129.64",
-      "status": "closed",
-      "costumerId": "11"
+      "status": { "id": "1", "label": "Closed" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     },
     {
       "id": 10,
       "title": "Operator",
       "description": "reintermediate B2B eyeballs",
       "price": "485.83",
-      "status": "inprogress",
-      "costumerId": "1"
+      "status": { "id": "2", "label": "In Progress" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     },
     {
       "id": 11,
       "title": "Product Engineer",
       "description": "utilize next-generation vortals",
       "price": "2460.25",
-      "status": "inprogress",
-      "costumerId": "15"
+      "status": { "id": "2", "label": "In Progress" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     },
     {
       "id": 12,
       "title": "Biostatistician IV",
       "description": "synthesize rich web services",
       "price": "1400.18",
-      "status": "inprogress",
-      "costumerId": "4"
+      "status": { "id": "2", "label": "In Progress" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     },
     {
       "id": 13,
       "title": "Physical Therapy Assistant",
       "description": "engineer leading-edge e-tailers",
       "price": "2399.29",
-      "status": "inprogress",
-      "costumerId": "8"
+      "status": { "id": "2", "label": "In Progress" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     },
     {
       "id": 14,
       "title": "Software Test Engineer III",
       "description": "enable one-to-one systems",
       "price": "1530.68",
-      "status": "inprogress",
-      "costumerId": "7"
+      "status": { "id": "2", "label": "In Progress" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     },
     {
       "id": 15,
       "title": "Financial Advisor",
       "description": "deliver visionary mindshare",
       "price": "3969.36",
-      "status": "inprogress",
-      "costumerId": "1"
+      "status": { "id": "2", "label": "In Progress" },
+      "customer": { "id": "1", "name": "Lind Annell" }
     }
   ],
   "tasks": [
@@ -241,63 +241,63 @@
       "title": "Asoka",
       "due_date": "11/16/2021",
       "is_completed": true,
-      "dealId": "3"
+      "deal": { "id": "1", "title": "VP Marketing" }
     },
     {
       "id": 2,
       "title": "Holdlamis",
       "due_date": "01/14/2022",
       "is_completed": true,
-      "dealId": "1"
+      "deal": { "id": "2", "title": "Physical Therapy Assistant" }
     },
     {
       "id": 3,
       "title": "Wrapsafe",
       "due_date": "02/13/2022",
       "is_completed": false,
-      "dealId": "7"
+      "deal": { "id": "1", "title": "VP Marketing" }
     },
     {
       "id": 4,
       "title": "Veribet",
       "due_date": "11/30/2021",
       "is_completed": false,
-      "dealId": "5"
+      "deal": { "id": "2", "title": "Physical Therapy Assistant" }
     },
     {
       "id": 5,
       "title": "Subin",
       "due_date": "06/27/2022",
       "is_completed": false,
-      "dealId": "5"
+      "deal": { "id": "1", "title": "VP Marketing" }
     },
     {
       "id": 6,
       "title": "Bitchip",
       "due_date": "03/18/2022",
       "is_completed": true,
-      "dealId": "6"
+      "deal": { "id": "1", "title": "VP Marketing" }
     },
     {
       "id": 7,
       "title": "Konklux",
       "due_date": "01/29/2022",
       "is_completed": true,
-      "dealId": "9"
+      "deal": { "id": "1", "title": "VP Marketing" }
     },
     {
       "id": 8,
       "title": "Tin",
       "due_date": "03/15/2022",
       "is_completed": false,
-      "dealId": "2"
+      "deal": { "id": "1", "title": "VP Marketing" }
     },
     {
       "id": 9,
       "title": "Trippledex",
       "due_date": "05/31/2022",
       "is_completed": false,
-      "dealId": "14"
+      "deal": { "id": "1", "title": "VP Marketing" }
     }
   ]
 }
