@@ -118,7 +118,7 @@
       "id": 1,
       "title": "VP Marketing",
       "description": "visualize next-generation solutions",
-      "price": "3319.83",
+      "price": "$3,319.83",
       "status": { "id": "1", "label": "Closed" },
       "customer": { "id": "1", "name": "Lind Annell" }
     },
@@ -126,7 +126,7 @@
       "id": 2,
       "title": "Physical Therapy Assistant",
       "description": "benchmark web-enabled e-business",
-      "price": "4385.44",
+      "price": "$4,385.44",
       "status": { "id": "1", "label": "Closed" },
       "customer": { "id": "2", "name": "Patty Assur" }
     },
@@ -134,7 +134,7 @@
       "id": 3,
       "title": "Sales Associate",
       "description": "scale intuitive infomediaries",
-      "price": "3136.89",
+      "price": "$3,136.89",
       "status": { "id": "1", "label": "Closed" },
       "customer": { "id": "2", "name": "Patty Assur" }
     },
@@ -142,7 +142,7 @@
       "id": 4,
       "title": "Account Executive",
       "description": "implement virtual e-markets",
-      "price": "3934.33",
+      "price": "$3,934.33",
       "status": { "id": "1", "label": "Closed" },
       "customer": { "id": "2", "name": "Patty Assur" }
     },
@@ -150,7 +150,7 @@
       "id": 5,
       "title": "Help Desk Operator",
       "description": "deploy frictionless portals",
-      "price": "2454.64",
+      "price": "$2,454.64",
       "status": { "id": "1", "label": "Closed" },
       "customer": { "id": "2", "name": "Patty Assur" }
     },
@@ -158,7 +158,7 @@
       "id": 6,
       "title": "Senior Quality Engineer",
       "description": "embrace dynamic web-readiness",
-      "price": "400.41",
+      "price": "$400.41",
       "status": { "id": "1", "label": "Closed" },
       "customer": { "id": "1", "name": "Lind Annell" }
     },
@@ -166,7 +166,7 @@
       "id": 7,
       "title": "Design Engineer",
       "description": "incentivize cross-media e-commerce",
-      "price": "554.58",
+      "price": "$554.58",
       "status": { "id": "1", "label": "Closed" },
       "customer": { "id": "1", "name": "Lind Annell" }
     },
@@ -174,7 +174,7 @@
       "id": 8,
       "title": "Editor",
       "description": "strategize dot-com applications",
-      "price": "707.34",
+      "price": "$707.34",
       "status": { "id": "1", "label": "Closed" },
       "customer": { "id": "1", "name": "Lind Annell" }
     },
@@ -182,7 +182,7 @@
       "id": 9,
       "title": "Environmental Specialist",
       "description": "extend integrated e-services",
-      "price": "1129.64",
+      "price": "$1,129.64",
       "status": { "id": "1", "label": "Closed" },
       "customer": { "id": "1", "name": "Lind Annell" }
     },
@@ -190,7 +190,7 @@
       "id": 10,
       "title": "Operator",
       "description": "reintermediate B2B eyeballs",
-      "price": "485.83",
+      "price": "$485.83",
       "status": { "id": "2", "label": "In Progress" },
       "customer": { "id": "1", "name": "Lind Annell" }
     },
@@ -198,7 +198,7 @@
       "id": 11,
       "title": "Product Engineer",
       "description": "utilize next-generation vortals",
-      "price": "2460.25",
+      "price": "$2,460.25",
       "status": { "id": "2", "label": "In Progress" },
       "customer": { "id": "1", "name": "Lind Annell" }
     },
@@ -206,7 +206,7 @@
       "id": 12,
       "title": "Biostatistician IV",
       "description": "synthesize rich web services",
-      "price": "1400.18",
+      "price": "$1,400.18",
       "status": { "id": "2", "label": "In Progress" },
       "customer": { "id": "1", "name": "Lind Annell" }
     },
@@ -214,7 +214,7 @@
       "id": 13,
       "title": "Physical Therapy Assistant",
       "description": "engineer leading-edge e-tailers",
-      "price": "2399.29",
+      "price": "$2,399.29",
       "status": { "id": "2", "label": "In Progress" },
       "customer": { "id": "1", "name": "Lind Annell" }
     },
@@ -222,7 +222,7 @@
       "id": 14,
       "title": "Software Test Engineer III",
       "description": "enable one-to-one systems",
-      "price": "1530.68",
+      "price": "$1,530.68",
       "status": { "id": "2", "label": "In Progress" },
       "customer": { "id": "1", "name": "Lind Annell" }
     },
@@ -230,7 +230,7 @@
       "id": 15,
       "title": "Financial Advisor",
       "description": "deliver visionary mindshare",
-      "price": "3969.36",
+      "price": "$3,969.36",
       "status": { "id": "2", "label": "In Progress" },
       "customer": { "id": "1", "name": "Lind Annell" }
     }
