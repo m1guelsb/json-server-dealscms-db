@@ -11,106 +11,19 @@
       "id": 1,
       "name": "Lind Annell",
       "email": "lannell0@latimes.com",
-      "phone": "462-183-8506",
-      "image": "https://robohash.org/nobissuscipitest.png?size=50x50&set=set1"
+      "phone": "462-183-8506"
     },
     {
       "id": 2,
       "name": "Patty Assur",
       "email": "passur1@issuu.com",
-      "phone": "310-865-1333",
-      "image": "https://robohash.org/consequaturcorporisipsum.png?size=50x50&set=set1"
+      "phone": "310-865-1333"
     },
     {
       "id": 3,
       "name": "Gusty Thomke",
       "email": "gthomke2@hibu.com",
-      "phone": "628-352-1448",
-      "image": "https://robohash.org/enimdeseruntquaerat.png?size=50x50&set=set1"
-    },
-    {
-      "id": 4,
-      "name": "Bernardo von Grollmann",
-      "email": "bvon3@statcounter.com",
-      "phone": "182-954-8766",
-      "image": "https://robohash.org/eligendietofficiis.png?size=50x50&set=set1"
-    },
-    {
-      "id": 5,
-      "name": "Dougie Meaking",
-      "email": "dmeaking4@state.gov",
-      "phone": "825-610-1226",
-      "image": "https://robohash.org/indebitissuscipit.png?size=50x50&set=set1"
-    },
-    {
-      "id": 6,
-      "name": "Gerianna Leyes",
-      "email": "gleyes5@tiny.cc",
-      "phone": "187-157-3799",
-      "image": "https://robohash.org/eaqueetnon.png?size=50x50&set=set1"
-    },
-    {
-      "id": 7,
-      "name": "Flora Punch",
-      "email": "fpunch6@rambler.ru",
-      "phone": "396-538-4572",
-      "image": "https://robohash.org/solutavoluptatemquod.png?size=50x50&set=set1"
-    },
-    {
-      "id": 8,
-      "name": "Cyb Awcock",
-      "email": "cawcock7@wordpress.org",
-      "phone": "915-740-3928",
-      "image": "https://robohash.org/teneturametenim.png?size=50x50&set=set1"
-    },
-    {
-      "id": 9,
-      "name": "Kean Jell",
-      "email": "kjell8@princeton.edu",
-      "phone": "422-293-7027",
-      "image": "https://robohash.org/odiodolorelaudantium.png?size=50x50&set=set1"
-    },
-    {
-      "id": 10,
-      "name": "Annalise Guidera",
-      "email": "aguidera9@woothemes.com",
-      "phone": "662-175-9879",
-      "image": "https://robohash.org/rationeiureerror.png?size=50x50&set=set1"
-    },
-    {
-      "id": 11,
-      "name": "Jed Stratiff",
-      "email": "jstratiffa@hibu.com",
-      "phone": "850-509-3899",
-      "image": "https://robohash.org/quocommodiab.png?size=50x50&set=set1"
-    },
-    {
-      "id": 12,
-      "name": "Hugues Vedekhov",
-      "email": "hvedekhovb@dagondesign.com",
-      "phone": "954-898-5573",
-      "image": "https://robohash.org/nisiaccusamussunt.png?size=50x50&set=set1"
-    },
-    {
-      "id": 13,
-      "name": "Genvieve Whytock",
-      "email": "gwhytockc@kickstarter.com",
-      "phone": "977-978-0282",
-      "image": "https://robohash.org/reiciendisvoluptatesnesciunt.png?size=50x50&set=set1"
-    },
-    {
-      "id": 14,
-      "name": "Brockie Cresar",
-      "email": "bcresard@ft.com",
-      "phone": "483-371-6990",
-      "image": "https://robohash.org/excepturitemporibusomnis.png?size=50x50&set=set1"
-    },
-    {
-      "id": 15,
-      "name": "Jackson Robelet",
-      "email": "jrobelete@ibm.com",
-      "phone": "580-996-6355",
-      "image": "https://robohash.org/repellatoditalias.png?size=50x50&set=set1"
+      "phone": "628-352-1448"
     }
   ],
   "deals": [
@@ -120,7 +33,7 @@
       "description": "visualize next-generation solutions",
       "price": "$3,319.83",
       "status": { "id": "1", "label": "Closed" },
-      "customer": { "id": "1", "name": "Lind Annell" }
+      "customerId": "3"
     },
     {
       "id": 2,
@@ -128,7 +41,7 @@
       "description": "benchmark web-enabled e-business",
       "price": "$4,385.44",
       "status": { "id": "1", "label": "Closed" },
-      "customer": { "id": "2", "name": "Patty Assur" }
+      "customerId": "1"
     },
     {
       "id": 3,
@@ -136,7 +49,7 @@
       "description": "scale intuitive infomediaries",
       "price": "$3,136.89",
       "status": { "id": "1", "label": "Closed" },
-      "customer": { "id": "2", "name": "Patty Assur" }
+      "customerId": "2"
     },
     {
       "id": 4,
@@ -144,7 +57,7 @@
       "description": "implement virtual e-markets",
       "price": "$3,934.33",
       "status": { "id": "1", "label": "Closed" },
-      "customer": { "id": "2", "name": "Patty Assur" }
+      "customerId": "1"
     },
     {
       "id": 5,
@@ -152,7 +65,7 @@
       "description": "deploy frictionless portals",
       "price": "$2,454.64",
       "status": { "id": "1", "label": "Closed" },
-      "customer": { "id": "2", "name": "Patty Assur" }
+      "customerId": "3"
     },
     {
       "id": 6,
@@ -160,144 +73,72 @@
       "description": "embrace dynamic web-readiness",
       "price": "$400.41",
       "status": { "id": "1", "label": "Closed" },
-      "customer": { "id": "1", "name": "Lind Annell" }
-    },
-    {
-      "id": 7,
-      "title": "Design Engineer",
-      "description": "incentivize cross-media e-commerce",
-      "price": "$554.58",
-      "status": { "id": "1", "label": "Closed" },
-      "customer": { "id": "1", "name": "Lind Annell" }
-    },
-    {
-      "id": 8,
-      "title": "Editor",
-      "description": "strategize dot-com applications",
-      "price": "$707.34",
-      "status": { "id": "1", "label": "Closed" },
-      "customer": { "id": "1", "name": "Lind Annell" }
-    },
-    {
-      "id": 9,
-      "title": "Environmental Specialist",
-      "description": "extend integrated e-services",
-      "price": "$1,129.64",
-      "status": { "id": "1", "label": "Closed" },
-      "customer": { "id": "1", "name": "Lind Annell" }
-    },
-    {
-      "id": 10,
-      "title": "Operator",
-      "description": "reintermediate B2B eyeballs",
-      "price": "$485.83",
-      "status": { "id": "2", "label": "In Progress" },
-      "customer": { "id": "1", "name": "Lind Annell" }
-    },
-    {
-      "id": 11,
-      "title": "Product Engineer",
-      "description": "utilize next-generation vortals",
-      "price": "$2,460.25",
-      "status": { "id": "2", "label": "In Progress" },
-      "customer": { "id": "1", "name": "Lind Annell" }
-    },
-    {
-      "id": 12,
-      "title": "Biostatistician IV",
-      "description": "synthesize rich web services",
-      "price": "$1,400.18",
-      "status": { "id": "2", "label": "In Progress" },
-      "customer": { "id": "1", "name": "Lind Annell" }
-    },
-    {
-      "id": 13,
-      "title": "Physical Therapy Assistant",
-      "description": "engineer leading-edge e-tailers",
-      "price": "$2,399.29",
-      "status": { "id": "2", "label": "In Progress" },
-      "customer": { "id": "1", "name": "Lind Annell" }
-    },
-    {
-      "id": 14,
-      "title": "Software Test Engineer III",
-      "description": "enable one-to-one systems",
-      "price": "$1,530.68",
-      "status": { "id": "2", "label": "In Progress" },
-      "customer": { "id": "1", "name": "Lind Annell" }
-    },
-    {
-      "id": 15,
-      "title": "Financial Advisor",
-      "description": "deliver visionary mindshare",
-      "price": "$3,969.36",
-      "status": { "id": "2", "label": "In Progress" },
-      "customer": { "id": "1", "name": "Lind Annell" }
+      "customerId": "2"
     }
   ],
   "tasks": [
     {
       "id": 1,
       "title": "Asoka",
-      "due_date": "11/16/2021",
+      "due_date": "2022-11-20",
       "is_completed": true,
-      "deal": { "id": "1", "title": "VP Marketing" }
+      "dealId": "2"
     },
     {
       "id": 2,
       "title": "Holdlamis",
-      "due_date": "01/14/2022",
+      "due_date": "2022-11-24",
       "is_completed": true,
-      "deal": { "id": "2", "title": "Physical Therapy Assistant" }
+      "dealId": "4"
     },
     {
       "id": 3,
       "title": "Wrapsafe",
-      "due_date": "02/13/2022",
+      "due_date": "2022-12-12",
       "is_completed": false,
-      "deal": { "id": "1", "title": "VP Marketing" }
+      "dealId": "2"
     },
     {
       "id": 4,
       "title": "Veribet",
-      "due_date": "11/30/2021",
+      "due_date": "2022-12-05",
       "is_completed": false,
-      "deal": { "id": "2", "title": "Physical Therapy Assistant" }
+      "dealId": "1"
     },
     {
       "id": 5,
       "title": "Subin",
-      "due_date": "06/27/2022",
+      "due_date": "2022-11-26",
       "is_completed": false,
-      "deal": { "id": "1", "title": "VP Marketing" }
+      "dealId": "1"
     },
     {
       "id": 6,
       "title": "Bitchip",
-      "due_date": "03/18/2022",
+      "due_date": "2022-12-10",
       "is_completed": true,
-      "deal": { "id": "1", "title": "VP Marketing" }
+      "dealId": "4"
     },
     {
       "id": 7,
       "title": "Konklux",
-      "due_date": "01/29/2022",
+      "due_date": "2023-02-12",
       "is_completed": true,
-      "deal": { "id": "1", "title": "VP Marketing" }
+      "dealId": "2"
     },
     {
       "id": 8,
       "title": "Tin",
-      "due_date": "03/15/2022",
+      "due_date": "2023-10-20",
       "is_completed": false,
-      "deal": { "id": "1", "title": "VP Marketing" }
+      "dealId": "1"
     },
     {
       "id": 9,
       "title": "Trippledex",
-      "due_date": "05/31/2022",
+      "due_date": "2023-05-02",
       "is_completed": false,
-      "deal": { "id": "1", "title": "VP Marketing" }
+      "dealId": "3"
     }
   ]
 }
